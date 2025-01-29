@@ -91,10 +91,6 @@ Place the dataset file in the same directory as the notebook for smooth executio
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -105,7 +101,7 @@ Special thanks to open-source contributors and the Python community for their in
 
 ## Contact
 For any questions or support, please contact:
-- **Name**: Your Name
-- **Email**: your_email@example.com
-- **GitHub**: [your_username](https://github.com/your_username)
+- **Name**: Adaolisa Okafor
+- **Email**: adaolisa.margaret@gmail.com
+- **GitHub**: [Okadaolisa]https://github.com/Okadaolisa)
 
